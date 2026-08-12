@@ -1,83 +1,59 @@
-
-<h1 align="center">
-    Heron Labs
-</h1>
-
-<h3 align="center">
-    Digital solutions tailored to transform businesses
-</h3>
-
-
-## 👋 About Us
-
-We are **Heron Labs** — a technology company committed to delivering everything your business needs to be **always online, functional, secure, and scalable**.
-
-We combine the most advanced technologies in the market with industry best practices to solve any challenge. Our mission is to provide digital solutions that truly transform the way businesses operate.
-
-## 🚀 What We Do
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h4>Custom Platforms</h4>
-      <p>A complete platform to call your own, tailored to your business model</p>
-    </td>
-    <td align="center" width="25%">
-      <h4>Scalable Solutions</h4>
-      <p>Infrastructure designed to grow with your business</p>
-    </td>
-    <td align="center" width="25%">
-      <h4>Modern Tech Stack</h4>
-      <p>Built with cutting-edge technologies and best practices</p>
-    </td>
-
-  </tr>
-</table>
-
-## 💎 Our Values
-
-| Value | Description |
-|-------|-------------|
-| **Integrity** | We build trust through honest and transparent relationships |
-| **Excellence** | We deliver high-quality solutions that exceed expectations |
-| **Innovation** | We continuously evolve with the latest technologies |
-| **Privacy** | We prioritize data protection and user privacy in everything we build |
-
-## 🛡️ Our Commitment to Privacy
-
-At Heron Labs, integrity and openness form the foundation of everything we do. We are dedicated to maintaining the highest standards of trust with our clients and partners:
-
-- ✅ Your data is **never sold, traded, or monetized** for commercial gain
-- ✅ We practice **data minimization** — collecting only what is essential
-- ✅ Full **transparency and control** over your personal information is always available
-
-## 🌎 We Speak Your Language
-
-We proudly serve clients globally with support in:
+<h1 align="center">Heron Labs</h1>
 
 <p align="center">
-  🇧🇷 <strong>Português</strong> &nbsp;•&nbsp; 🇺🇸 <strong>English</strong> &nbsp;•&nbsp; 🇪🇸 <strong>Español</strong>
+  <strong>Online. Functional. Secure. Scalable.</strong>
 </p>
 
-## 📬 Get in Touch
-
-Ready to transform your business? We'd love to hear from you!
+<p align="center">
+  From idea to production: fast, secure and scalable digital products for your business.
+</p>
 
 <p align="center">
   <a href="https://heronlabs.com.br">
-    <img src="https://img.shields.io/badge/Website-heronlabs.com.br-blue?style=for-the-badge" alt="Website">
+    <img src="https://img.shields.io/badge/Come_in-heronlabs.com.br-0a2540?style=for-the-badge" alt="Website">
   </a>
   <a href="mailto:org@heronlabs.com.br">
-    <img src="https://img.shields.io/badge/Email-org%40heronlabs.com.br-red?style=for-the-badge" alt="Email">
+    <img src="https://img.shields.io/badge/Talk_to_us-org@heronlabs.com.br-f59e0b?style=for-the-badge" alt="Email">
   </a>
 </p>
 
+---
+
+## Come see it fly
+
+We are **Heron Labs** — a technology company committed to delivering everything your business needs. Our mission is to build digital solutions that truly transform the way businesses operate.
+
+The site says it better than this page can. [Open it](https://heronlabs.com.br) — a heron crosses the sky, and there is a **live dashboard** waiting for you: sign in, watch it boot, repaint it blue, orange, purple or green. It is a real product demo, not a screenshot.
+
+## What we do
+
+- **Custom platforms** — a complete platform to call your own, tailored to your business model.
+- **Scalable solutions** — infrastructure designed to grow with your business.
+- **Modern tech stack** — built with cutting-edge technologies and industry best practices.
+
+## Our values
+
+**Integrity** · **Excellence** · **Innovation** · **Privacy**
+
+## Your data, your rules
+
+- Never sold, traded or monetized.
+- We collect only what is essential — data minimization in practice.
+- Full transparency and control over your information, always.
+
+## We speak your language
+
 <p align="center">
-  Fill out our contact form and a specialist will reach out to provide a digital solution tailored to your business needs.
+  🇧🇷 <strong>Português</strong> &nbsp;·&nbsp; 🇺🇸 <strong>English</strong> &nbsp;·&nbsp; 🇪🇸 <strong>Español</strong>
 </p>
 
 ---
 
 <p align="center">
-  <em>Building the future, one solution at a time.</em>
+  <strong>Ready to transform your business?</strong><br>
+  Fill out our contact form and a specialist will reach out with a solution tailored to your needs.
+</p>
+
+<p align="center">
+  <a href="https://heronlabs.com.br"><strong>heronlabs.com.br</strong></a> &nbsp;·&nbsp; <a href="mailto:org@heronlabs.com.br">org@heronlabs.com.br</a>
 </p>
