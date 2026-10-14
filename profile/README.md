@@ -8,4 +8,3 @@ Heron Labs designs and builds custom software, web applications and digital prod
 
 - Website: [heronlabs.com.br](https://heronlabs.com.br)
 - Email: [org@heronlabs.com.br](mailto:org@heronlabs.com.br)
-- X: [@heronlabs](https://x.com/heronlabs)
