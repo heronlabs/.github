@@ -4,8 +4,6 @@
 
 Heron Labs designs and builds custom software, web applications and digital products for businesses. We work with clients from early idea through launch and ongoing operation.
 
-This organization hosts our public projects, tooling and open source work.
-
 ## Contact
 
 - Website: [heronlabs.com.br](https://heronlabs.com.br)
